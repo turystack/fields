@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+pnpm-debug.log*
+
+node_modules
+coverage
+dist
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.sw?
